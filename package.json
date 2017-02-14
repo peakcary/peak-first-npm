@@ -1,0 +1,22 @@
+{
+  "name": "peak-first-npm",
+  "version": "1.0.0",
+  "description": "peak first npm ",
+  "main": "./lib/module1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peakcary/peak-first-npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "peak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peakcary/peak-first-npm/issues"
+  },
+  "homepage": "https://github.com/peakcary/peak-first-npm#readme"
+}
